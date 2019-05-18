@@ -1,6 +1,6 @@
 ## Explore Weather Trends
 
-This project was submitted for the first project of Udacity’s Data Analyst Nanodgree.
+This project was submitted for the first project of Udacity’s Data Analyst Nanodegree.
 
 ### Project requirements:
 
